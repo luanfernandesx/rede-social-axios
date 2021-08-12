@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Meu primeiro site tá pronto!",
+      "description": "- Finalmente consegui fazer um site<br>- E não é que ficou bom mesmo<br>- #React #RouterDom #sucesso<br>- Me sentindo Felizão!"
+    },
+    {
+      "id": 2,
+      "title": "fazer um site é o proximo desafio",
+      "description": "- Tá na hora de usar o que aprendemos<br>- um grande desafio pela frente, não tem sido fácil<br>- #React #Router #Router-dom"
+    },
+    {
+      "id": 3,
+      "title": "Então esse é o React",
+      "description": "- Aprofundando nos estudos chegamos no react<br>- #React #Bootstrap<br>- E como falicita a vida<br>- #MaterialUI #site"
+    },
+    {
+      "id": 4,
+      "title": "O primeiro desafio!",
+      "description": "- Fazer um currículo Html<br>- Nem sabia que dava pra fazer isso<br>- #Js #html #css #Desafio<br>"
+    },
+    {
+      "id": 5,
+      "title": "Iniciando o treinamento",
+      "description": "- Dei início ao treinamento na Sequor com o Vini e o Maicon<br>- #BoasEspectativas #Dalee<br"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "body": "some comment",
+      "postId": 3
+    },
+    {
+      "id": 4,
+      "body": "some comment",
+      "postId": 4
+    },
+    {
+      "id": 5,
+      "body": "some comment",
+      "postId": 5
+    }
+  ],
+  "users": [
+    {
+      "email": "babatinha@gmail.com",
+      "password": "1234",
+      "name": "Usuário autorizado",
+      "id": "dfghjkkjtynd"
+    },
+    {
+      "email": "luan.oliveira@sequor.com.br  ",
+      "password": "1234",
+      "nome": "Usuário autorizado",
+      "id": "LwmV9M2"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "123",
+      "nome": "Usuário autorizado",
+      "id": "niKJXX1"
+    }
+  ]
+}
